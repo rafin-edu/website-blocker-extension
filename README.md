@@ -19,7 +19,7 @@ git clone https://github.com/rafin-edu/website-blocker-extension
    ```bash
    const lockUntil = Date.now() + (7 * 24 * 60 * 60 * 1000); // 7 days
    ``` 
-     in this code you can change the value like this:
+  in this code you can change the value like this:
    ```bash
    const lockUntil = Date.now() + (1 * 24 * 60 * 60 * 1000); // 1 days
    ```
