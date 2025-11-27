@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site Blocked</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #000;
+            font-family: 'Courier New', monospace;
+            color: #0f0;
+            padding: 20px;
+        }
+        .content {
+            text-align: center;
+            padding: 40px;
+            max-width: 1368px;
+            background: rgba(0, 10, 0, 0.9);
+            border: 2px solid #0f0;
+            box-shadow: 0 0 30px rgba(0, 255, 0, 0.5);
+        }
+        .icon {
+            font-size: 80px;
+            margin-bottom: 20px;
+            color: #f00;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            color: #0f0;
+        }
+        .site {
+            background: rgba(0, 20, 0, 0.7);
+            padding: 15px 30px;
+            margin: 20px 10px;
+            border: 1px solid #0f0;
+            color: #ff0;
+            font-size: 1.2em;
+        }
+        .motivation {
+            background: rgba(0, 15, 0, 0.7);
+            padding: 30px;
+            margin: 30px 0;
+            border-left: 4px solid #0f0;
+        }
+        .quote {
+            font-size: 1.4em;
+            font-style: italic;
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+        .author {
+            font-size: 1.1em;
+            color: #ff0;
+        }
+        .timer {
+            background: rgba(0, 20, 0, 0.7);
+            padding: 20px;
+            border: 1px solid #0f0;
+        }
+        .timer-label {
+            margin-bottom: 10px;
+        }
+        .timer-value {
+            font-size: 1.8em;
+            color: #ff0;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <div class="icon">👊</div>
+        <h1>সাইট ব্লক করা হয়েছে</h1>
+        <div class="site" id="blockedSite">ওয়েবসাইট</div>
+        
+        <div class="motivation">
+            <div class="quote" id="motivationText">প্রেরণাদায়ক উক্তি লোড হচ্ছে...</div>
+            <div class="author" id="authorText"></div>
+        </div>
+        
+        <div class="timer">
+            <div class="timer-label">🔒 আনলক হবে:</div>
+            <div class="timer-value" id="countdown">লোড হচ্ছে...</div>
+        </div>
+    </div>
+
+    <!-- Load external JavaScript file -->
+    <script src="blocked.js"></script>
+</body>
+</html>
