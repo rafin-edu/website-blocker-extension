@@ -15,7 +15,15 @@ git clone https://github.com/rafin-edu/website-blocker-extension
 # Why you choose this?
   1. First of all you are safe from data traffiking.
   2. Secondly you can change the code as your wish.
-  3. Finally You will get a website blocker and don't forget to give it a star or thank me after using it.
+  3. You can change the time as your wish in the popup.js file and 
+   ```bash
+   const lockUntil = Date.now() + (7 * 24 * 60 * 60 * 1000); // 7 days
+   ``` 
+   in this code you can change the value like this
+   ```bash
+   const lockUntil = Date.now() + (1 * 24 * 60 * 60 * 1000); // 1 days
+   ```
+  4. Finally You will get a website blocker and don't forget to give it a star or thank me after using it.
 
 # Setup  Method
 Now let's tell about the setup method:
