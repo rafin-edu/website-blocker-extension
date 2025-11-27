@@ -13,9 +13,9 @@ git clone https://github.com/rafin-edu/website-blocker-extension
    বাংলা এ  বলি আমরা প্রতিদিন  কোনও না কোনও জনপ্রিয় ওয়েবসাইট এ গিয়ে থাকি। কিন্তু ওয়েবসাইট এর আল্গরিথম এর কারণে আমরা আমাদের মনোযোগ হারিয়ে ফেলি, ঘণ্টার পর ঘণ্টা সময় নষ্ট করে থাকি এবং উদপাদনশিলতা হারিয়ে ফেলি। আশাকরি এই ওয়েবসাইট কোনও না কোনও ভাবে সাহায্য করবে|
 
 # Why you choose this?
-  First of all you are safe from data traffiking
-  Secondly you can change the code as your wish
-  Finally You will get a website blocker and don't forget to give it a star or thank me after using it 
+  1. First of all you are safe from data traffiking.
+  2. Secondly you can change the code as your wish.
+  3. Finally You will get a website blocker and don't forget to give it a star or thank me after using it.
 
 # Setup  Method
 Now let's tell about the setup method:
