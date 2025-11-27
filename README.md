@@ -10,7 +10,7 @@ git clone https://github.com/rafin-edu/website-blocker-extension
   1. You will block any website mostly which will consume your time very much
   2. Block a website for 7 days and there isn't any method to unblock the website before 7 days
 # Benefits in Bangla
-   বাংলা এ  বলি আমরা প্রতিদিন  কোনও না কোনও জনপ্রিয় ওয়েবসাইট এ গিয়ে থাকি। কিন্তু ওয়েবসাইট এর আল্গরিথম এর কারণে আমরা আমাদের মনজগ হারিয়ে ফেলি । আশাকরি এই ওয়েবসাইট কোনও না কোনও ভাবে সাহায্য করবে|
+   বাংলা এ  বলি আমরা প্রতিদিন  কোনও না কোনও জনপ্রিয় ওয়েবসাইট এ গিয়ে থাকি। কিন্তু ওয়েবসাইট এর আল্গরিথম এর কারণে আমরা আমাদের মনোযোগ হারিয়ে ফেলি, ঘণ্টার পর ঘণ্টা সময় নষ্ট করে থাকি এবং উদপাদনশিলতা হারিয়ে ফেলি। আশাকরি এই ওয়েবসাইট কোনও না কোনও ভাবে সাহায্য করবে|
 
 # Setup  Method
 Now let's tell about the setup method:
@@ -25,4 +25,5 @@ Now let's tell about the setup method:
 
 
 
-Finally, I thanks all of you who see a simple project fully based on AI. For any queris and suggestion [conatct](https://www.facebook.com/deshi.bangla.2024) with me. I hope you will help me to update the README information or any grammatical mistakes. 😁😁
+Finally, I thanks all of you who see a simple project fully based on AI but helpful. For any queris and suggestion [conatct](https://wa.me/+8801990151384) with me. I hope you will help me to update the README information or any grammatical mistakes. 😁😁
+
