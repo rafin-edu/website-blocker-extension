@@ -1,6 +1,6 @@
 This is first time I  write an instruction of a project. I am so lazy to write any project README.
 
-This project is about website blocker & It is an AI powered website blocker extension.
+This project is about website blocking & It is an AI powered website blocker extension.
 
 To use the extension You need to clone the website from this link from your terminal:
 ```bash
