@@ -19,7 +19,7 @@ git clone https://github.com/rafin-edu/website-blocker-extension
    ```bash
    const lockUntil = Date.now() + (7 * 24 * 60 * 60 * 1000); // 7 days
    ``` 
-   in this code you can change the value like this
+     in this code you can change the value like this:
    ```bash
    const lockUntil = Date.now() + (1 * 24 * 60 * 60 * 1000); // 1 days
    ```
@@ -38,5 +38,8 @@ Now let's tell about the setup method:
 
 
 
-Finally, I thanks all of you who see a simple project fully based on AI but helpful. For any queris and suggestion [conatct](https://wa.me/+8801990151384) with me. I hope you will help me to update the README information or any grammatical mistakes. 😁😁
+Finally, I thanks all of you who see a simple project fully based on AI but helpful.
+ For any queris and suggestion [conatct](https://wa.me/+8801990151384) with me. 
+
+I hope you will help me to update the README information or any grammatical mistakes. 😁😁
 
